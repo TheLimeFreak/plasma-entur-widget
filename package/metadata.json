@@ -1,0 +1,18 @@
+{
+  "KPlugin": {
+    "Authors": [
+      {
+        "Name": "TheLimeFreak"
+      }
+    ],
+    "Id": "no.thomasbirk.plasma-entur-widget",
+    "Name": "Entur Departures for plasma",
+    "Description": "Shows upcoming public transport departures from Entur",
+    "Icon": "view-calendar-upcoming",
+    "Version": "1.0.0",
+    "Category": "Utilities",
+    "License": "GPL-3.0-or-later"
+  },
+  "X-Plasma-API-Minimum-Version": "6.0",
+  "KPackageStructure": "Plasma/Applet"
+}
