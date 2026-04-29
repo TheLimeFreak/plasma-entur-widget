@@ -2,13 +2,9 @@
 
 Shows upcoming public transport information from Entur
 
----
-
 ## License
 
 - **License:** [GPLv3](LICENSE)
-
----
 
 ## Credit
 
