@@ -27,7 +27,7 @@
       <default>true</default>
     </entry>
   </group>
-  <group name="Colors">
+  <group name="Appearance">
     <entry name="colorDefault" type="Color">
       <default>#757575</default>
     </entry>

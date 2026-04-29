@@ -5,18 +5,18 @@ ConfigModel {
   ConfigCategory {
     name: i18n("General")
     icon: "configure"
-    source: "configGeneral.qml"
+    source: "config/configGeneral.qml"
   }
 
   ConfigCategory {
-    name: i18n("Colors")
+    name: i18n("Appearance")
     icon: "applications-graphics"
-    source: "configColors.qml"
+    source: "config/configAppearance.qml"
   }
 
   ConfigCategory {
     name: i18n("Credit")
     icon: "help-about"
-    source: "configCredit.qml"
+    source: "config/configCredit.qml"
   }
 }

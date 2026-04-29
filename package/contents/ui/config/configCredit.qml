@@ -23,7 +23,7 @@ ColumnLayout {
 
       Image {
         id: enturLogo
-        source: Qt.resolvedUrl("../images/Enturlogo_Blue_RGB.svg")
+        source: Qt.resolvedUrl("../../images/Enturlogo_Blue_RGB.svg")
         sourceSize.width: 220
         fillMode: Image.PreserveAspectFit
         Layout.preferredWidth: 220
